@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "name": "pretty1",
+      "email": "111@qq.com",
+      "sex": "man",
+      "companyId": 1,
+      "id": 1
+    },
+    {
+      "name": "pretty2",
+      "email": "111@qq.com",
+      "sex": "man",
+      "companyId": 1,
+      "id": 2
+    },
+    {
+      "name": "pretty3",
+      "email": "111@qq.com",
+      "sex": "man",
+      "companyId": 2,
+      "id": 3
+    },
+    {
+      "name": "pretty4",
+      "email": "111@qq.com",
+      "sex": "man",
+      "companyId": 2,
+      "id": 4
+    },
+    {
+      "name": "wjj",
+      "email": "111@qq.com",
+      "sex": "man",
+      "companyId": 2,
+      "id": 5
+    },
+    {
+      "name": "1",
+      "sex": "2",
+      "id": 6
+    },
+    {
+      "name": "kitty",
+      "sex": "girl",
+      "email": "www.ktty@sina.com",
+      "education": "本科",
+      "graduationschool": "天津工业大学",
+      "profession": "学生",
+      "profile": "Nice to meet you！",
+      "id": 7
+    },
+    {
+      "name": "1",
+      "sex": "2",
+      "email": "3",
+      "id": 8
+    },
+    {
+      "name": "1",
+      "sex": "2",
+      "email": "3",
+      "id": 9
+    },
+    {
+      "name": "q",
+      "sex": "3",
+      "email": "4",
+      "id": 10
+    },
+    {
+      "name": "1",
+      "sex": "2",
+      "email": "3",
+      "id": 11
+    },
+    {
+      "name": "1",
+      "sex": "1",
+      "email": "1",
+      "id": 12
+    },
+    {
+      "name": "1",
+      "sex": "1",
+      "email": "1",
+      "id": 13
+    },
+    {
+      "name": "1",
+      "sex": "1",
+      "email": "1",
+      "id": 14
+    },
+    {
+      "name": "q",
+      "sex": "w",
+      "email": "e",
+      "id": 15
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "huawei",
+      "description": "national enterprise"
+    },
+    {
+      "id": 2,
+      "name": "huawei",
+      "description": "national enterprise"
+    },
+    {
+      "id": 3,
+      "name": "huawei",
+      "description": "national enterprise"
+    },
+    {
+      "id": 4,
+      "name": "huawei",
+      "description": "national enterprise"
+    },
+    {
+      "id": 5,
+      "name": "huawei",
+      "description": "national enterprise"
+    }
+  ]
+}

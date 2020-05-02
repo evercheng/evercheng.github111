@@ -1,0 +1,17 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "port":"3000",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch db.json",
+    "file":"json-server http://example.com/file.json",
+    "tcp":"json-server http://jsonplaceholder.typicode.com/db"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
